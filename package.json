@@ -23,7 +23,7 @@
     "moongose": "2.14.2"
   },
   "engines": {
-    "node": ">=0.8"
+    "node": ">=0.11.16"
   },
   "devDependencies": {
     "docco": "~0.7.0",
