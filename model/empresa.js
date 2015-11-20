@@ -46,7 +46,6 @@ var obj_Empresa = {
 	
 	eliminar_empresa: function(objeto_delete){
 		delete  objeto_delete.nombre;
-		console.log(objeto_delete.nombre);
 		return objeto_delete;
 	}
 }
